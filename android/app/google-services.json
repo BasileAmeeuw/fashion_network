@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335331974438",
+    "project_id": "mobileapp-4b947",
+    "storage_bucket": "mobileapp-4b947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335331974438:android:50e9189ede62dac6d375e7",
+        "android_client_info": {
+          "package_name": "com.basile.fashion_network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335331974438-kb284scpbki9mv78ghics33s1d7elhqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsi2ZjgNKt_mGxcjueJgkZS79rrzNSZYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335331974438-kb284scpbki9mv78ghics33s1d7elhqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
